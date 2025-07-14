@@ -1,5 +1,5 @@
 // Efek Ketik Romantis
-const text = "I Love You, ica❤️";
+const text = "I Love You❤️";
 let index = 0;
 function typeText() {
     if (index < text.length) {
